@@ -63,13 +63,12 @@ Atualmente estou aprofundando meus conhecimentos em Java, Spring Boot, bancos de
 
 ## Contato
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/guhcn2005-ai">
   GitHub
 </a>
 
 <br>
 
-Canal no YouTube: GUGA GAMES
 
 ---
 
