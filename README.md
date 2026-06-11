@@ -55,8 +55,8 @@ Atualmente estou aprofundando meus conhecimentos em Java, Spring Boot, bancos de
 ## Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guhcn2005-aiO&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhcn2005-ai&layout=compact" />
 </p>
 
 ---
