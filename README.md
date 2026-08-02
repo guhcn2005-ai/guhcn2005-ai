@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="SEU_LINK_LINKEDIN">
+  <a href="https://www.linkedin.com/in/gustavo-nascimento-30a04926b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="SEU_EMAIL">
+  <a href="guhcn2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -76,8 +76,8 @@ O projeto possui frontend e backend desenvolvidos separadamente, permitindo expl
 **Tecnologias:**  
 `JavaScript` `Node.js` `API REST` `SQL`
 
-🔗 [Frontend](SEU_LINK_STORYNODES_FRONTEND)  
-🔗 [Backend](SEU_LINK_STORYNODES_BACKEND)
+🔗 [Frontend](https://github.com/guhcn2005-ai/story_nodes-v1)  
+🔗 [Backend](https://github.com/guhcn2005-ai/story_node_api)
 
 ---
 
@@ -90,8 +90,8 @@ O projeto foi desenvolvido explorando a integração entre frontend, backend, AP
 **Tecnologias:**  
 `HTML` `CSS` `Bootstrap` `JavaScript` `Node.js` `SQL`
 
-🔗 [Frontend](SEU_LINK_URBAN_FRONTEND)  
-🔗 [Backend](SEU_LINK_URBAN_BACKEND)
+🔗 [Frontend](https://github.com/guhcn2005-ai/Urban-Burguer)  
+🔗 [Backend](https://github.com/guhcn2005-ai/Urban-Burguer)
 
 ---
 
